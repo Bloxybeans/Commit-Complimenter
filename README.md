@@ -1,8 +1,8 @@
 # Commit Complimenter 
 
-_adds positivity to commits._
+_adds positivity to your commits._
 
-This project provides a simple Python script designed to run as a Git hook on Windows. It checks your commit message for signs of potential frustration or negativity (by looking for specific keywords) and, if detected, automatically appends a random compliment or positive message before the commit is finalized.
+This project is just a simple Python script designed to run as a Git hook on Windows. It checks your commit message for negativity (by looking for specific keywords) and automatically appends a random compliment or positive message before the commit is finalized.
 
 I got really bored at night and made this
 
